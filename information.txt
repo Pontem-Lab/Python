@@ -1,0 +1,25 @@
+Hello ... 
+I can show now program how working program when you turn on your computer.
+
+This is bash file and use only linux os .....
+ This program working ur python file when turn on laptope
+ but you required give true setting. File required in etc/ 
+ folder or you give road to bash file.
+ Then you required give seting in bash file where your python file
+ the road. 
+ I would recommand two file save one folder and this folder was etc/ folder
+---------------------------------------------------------------------------
+
+Now I show how this program add new file other programing languarge 
+and there is working automatic....
+
+This program about the week planning exams, but it is can use for another purpose.
+Import library about date and browser, becouse me take week day give x variable
+Import library about date and browser, becand then compare with all week days.
+Import library about date and browser, bec Open browser and open google.com
+Import library about date and browser, bec This program is very simple, consisted of three part.
+Import library about date and browser, bec First part functions week day 
+Import library about date and browser, becSecond part compare x for all day and find today show me tday exam and clock
+Import library about date and browser, becThird open browser
+Import library about date and browser, bec
+ImpoImport library about date and browser, bec
